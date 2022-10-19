@@ -1,6 +1,8 @@
 # Car-website
-{Under construction 🚧 }
+### {Under construction 🚧 }
 ## [View Project ](https://shimmering-melomakarona-b9907e.netlify.app)
+### {view this instead 👇 }
+# [Car - website 2](https://github.com/KwabenaSark/Car-website-2)
 
 
 * Home Page - The home page which includes a navigation bar, slider, map and footer with social media links
